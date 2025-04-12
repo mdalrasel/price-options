@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "description": "Perfect for beginners who need access to basic equipment and occasional guidance.",
+    "features": [
+      "Access to Gym Equipment",
+      "Personal Locker",
+      "1 Trainer Session/Month",
+      "Drinking Water Available"
+    ],
+    "img": "/images/pricing/basic.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "description": "Includes basic access plus diet consultation and regular trainer sessions.",
+    "features": [
+      "All Basic Features",
+      "Weekly Diet Consultation",
+      "4 Trainer Sessions/Month",
+      "Access to Cardio Zone",
+      "Group Workout Classes"
+    ],
+    "img": "/images/pricing/standard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$60/month",
+    "description": "Designed for serious fitness lovers who want all facilities and unlimited support.",
+    "features": [
+      "All Standard Features",
+      "Unlimited Trainer Support",
+      "Steam & Sauna Access",
+      "Supplement Discount",
+      "Fitness Progress Tracking"
+    ],
+    "img": "/images/pricing/premium.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Couple Plan",
+    "price": "$100/month",
+    "description": "Great value plan for couples looking to train and grow fit together.",
+    "features": [
+      "2 Member Access",
+      "All Premium Features",
+      "Free Couple Yoga Class",
+      "Special Discount on Protein Packs",
+      "Priority Booking for Trainers"
+    ],
+    "img": "/images/pricing/couple.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Annual Plan",
+    "price": "$500/year",
+    "description": "Best for long-term commitment with added perks and big savings.",
+    "features": [
+      "Save $100 Over Monthly Plan",
+      "Free Gym Merchandise",
+      "Annual Health Checkup",
+      "Access to All Facilities",
+      "Priority Support & Booking"
+    ],
+    "img": "/images/pricing/annual.jpg"
+  }
+]
